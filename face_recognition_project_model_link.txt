@@ -1,0 +1,2 @@
+1.         https://teachablemachine.withgoogle.com/models/H1d32apkq/
+2.         https://storage.googleapis.com/tm-model/H1d32apkq/model.json
